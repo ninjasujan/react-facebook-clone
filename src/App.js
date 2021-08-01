@@ -1,9 +1,17 @@
 import "./App.css";
+import Header from "./Header/Header";
 
 function App() {
   return (
     <div className="app">
-      <h2>React FB Login</h2>
+      <Header />
+
+      {/* App Body */}
+      {/* sidebar */}
+      {/* Feed */}
+      {/* widget */}
+
+      {/*  */}
     </div>
   );
 }
